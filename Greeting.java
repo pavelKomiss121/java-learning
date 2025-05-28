@@ -1,5 +1,4 @@
 package ru.mentee.power;
-&nbsp;
 
 public class Greeting{
     public static String getGreeting(String name){
